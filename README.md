@@ -47,9 +47,6 @@ The script will then display the subject, sender, date, and any attachments for 
 
 - `email_automation.py`: The main Python script containing the email automation functionality.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to modify and distribute the code as per your needs.
 
